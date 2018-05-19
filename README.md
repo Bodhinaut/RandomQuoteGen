@@ -10,7 +10,7 @@ VERSION or DATE: 12/15/2017
 
 HOW TO START THIS PROJECT: Open project files in Sublime text-editor. The site itself 
 is hosted on bestill.getforge.io
-
+### Note: 5/19/2018 This project will no longer be on getforge.io, will be moving to its owns server soon
 AUTHORS: Kyle Shive
 
 USER INSTRUCTIONS: 
